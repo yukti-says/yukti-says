@@ -7,6 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/yuktisahu234" target="blank"><img src="https://img.shields.io/twitter/follow/yuktisahu234?logo=twitter&style=for-the-badge" alt="yuktisahu234" /></a> </p>
 
+- 🔭 I’m currently working on [student-management-system](https://github.com/yukti-says/student-management-system)
+
+- 🌱 I’m currently learning **Node , Express js , React , Flask , MongoDB**
+
+- 📝 I regularly write articles on [https://hashnode.com/@yuktisahu](https://hashnode.com/@yuktisahu)
+
+- 💬 Ask me about **react , gsap , python , javaScript , MySql**
+
+- 📫 How to reach me **ps5036177@gmail.com**
+
+- ⚡ Fun fact **I think I do not talk that much if you are not my type!**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -35,3 +47,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yukti-says&show_icons=true&locale=en" alt="yukti-says" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yukti-says&" alt="yukti-says" /></p>
+
