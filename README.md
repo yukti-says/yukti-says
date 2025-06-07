@@ -1,3 +1,7 @@
+<p align='center'>
+  <img height="400" object-fit="cover" src="https://github.com/yukti-says/yukti-says/blob/main/ChatGPT%20Image%20Jun%207%2C%202025%2C%2007_31_55%20PM.png" alt="logo"
+  style="width:100%;"/>
+
 <h1 align="center">Hi 👋, I'm Yukti Sahu</h1>
 <h3 align="center">Working towards Developments and Analysis</h3>
 
