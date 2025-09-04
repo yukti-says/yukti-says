@@ -3,7 +3,7 @@
   style="width:100%;"/>
 <h1 align="center">Hi 👋, I'm Yukti Sahu</h1>
 <h3 align="center">Working towards Developments and Analysis</h3>
-# 💫 About Me:
+
 🌱 I’m currently learning Node js React<br>📝 I regularly write articles on https://yuktiblogs.hashnode.dev/<br><br>💬 Ask me about react python javascript<br><br>📫 How to reach me ps5036177@gmail.com
 
 
